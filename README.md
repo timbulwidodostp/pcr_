@@ -1,6 +1,8 @@
 # pcr_
 Principal Component Regression (PCR) Use pcr (pls) With (In) R Software
 
+https://www.youtube.com/watch?v=6qmjH1PJlvo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
